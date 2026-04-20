@@ -1,1 +1,1 @@
-https://chandresh202004.github.io/Regular-Expression-to-NFA/simulation.html
+https://haarishk1510-pixel.github.io/RE-to-NFA/
